@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows;
 
 namespace MathGame.Model
 {
@@ -38,6 +39,9 @@ namespace MathGame.Model
         {
             string operation = GetRandomOperation();
             int num1, num2;
+
+            //traza para comprobar cambio dificultad
+            MessageBox.Show("Dificultad:" + Difficulty);
 
             switch (Difficulty)
             {

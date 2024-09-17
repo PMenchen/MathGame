@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 using MathGame.View;
@@ -20,6 +21,8 @@ namespace MathGame.Model.Controller
             timer.Interval = TimeSpan.FromSeconds(0.1);
             timer.Tick += Timer_Tick;
 
+            UpdateDifficulty();
+
             /*view.StartButton.Click += StartButton_Click;
             view.CheckButton.Click += CheckButton_Click;
             view.EndGameButton.Click += EndGameButton_Click;
@@ -32,9 +35,20 @@ namespace MathGame.Model.Controller
             StartGame();
         }*/
 
-        public void StartGame()
+        private void ResetGame()
         {
             model.ResetGame();
+            timer.Stop();
+            UpdateUI();
+        }
+
+        public void StartGame()
+        {
+            /*
+             * CADA VEZ QUE SE INICIA, SE RESETEA EL JUEGO, LO QUE HARÁ QUE LA DIFICULTAD VUELVA A ESTAR EN FÁCIL
+             * MIRAR FORMA DE ARREGLARLO 
+             * */
+            //model.ResetGame();
             model.IsGameActive = true;
             UpdateUI();
             GenerateQuestion();
@@ -151,7 +165,16 @@ namespace MathGame.Model.Controller
         {
             if (view.DifficultyComboBox.SelectedItem is ComboBoxItem selectedItem)
             {
-                model.Difficulty = selectedItem.Content.ToString();
+                MessageBox.Show(selectedItem.Content.ToString());
+                string? newDifficulty = selectedItem.Content.ToString();
+                if (model.Difficulty != newDifficulty)
+                {
+                    model.Difficulty = newDifficulty;
+                    MessageBox.Show($"Dificultad desde controller: {model.Difficulty}");
+
+                    //ResetGame();
+                    view.ShowCustomMessageBox("Dificultad cambiada", $"La dificultad se ha cambiado a {model.Difficulty}. El juego se reiniciará.");
+                }
             }
         }
     }

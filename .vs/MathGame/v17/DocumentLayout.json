@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|c:\\users\\p3dr0\\desktop\\tfg\\mathgame\\mathgame\\model\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\model\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|c:\\users\\p3dr0\\desktop\\tfg\\mathgame\\mathgame\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|c:\\users\\p3dr0\\desktop\\tfg\\mathgame\\mathgame\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|c:\\users\\p3dr0\\desktop\\tfg\\mathgame\\mathgame\\view\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\view\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|c:\\users\\p3dr0\\desktop\\tfg\\mathgame\\mathgame\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32828C4B-CDC7-47CE-BB9E-7F6870B5187B}|MathGame\\MathGame.csproj|solutionrelative:mathgame\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\Model\\Controller\\GameController.cs",
+              "RelativeDocumentMoniker": "MathGame\\Model\\Controller\\GameController.cs",
+              "ToolTip": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\Model\\Controller\\GameController.cs",
+              "RelativeToolTip": "MathGame\\Model\\Controller\\GameController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:55:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "MathGame\\Model\\GameModel.cs",
+              "ToolTip": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\Model\\GameModel.cs",
+              "RelativeToolTip": "MathGame\\Model\\GameModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwvyoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:55:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomMessageBox.xaml",
+              "DocumentMoniker": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\CustomMessageBox.xaml",
+              "RelativeDocumentMoniker": "MathGame\\View\\CustomMessageBox.xaml",
+              "ToolTip": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\CustomMessageBox.xaml",
+              "RelativeToolTip": "MathGame\\View\\CustomMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T19:01:24.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MathGame\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\MainWindow.xaml",
+              "RelativeToolTip": "MathGame\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T18:54:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MathGame\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\p3dr0\\Desktop\\TFG\\MathGame\\MathGame\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MathGame\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:55:06.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
